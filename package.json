@@ -1,0 +1,22 @@
+{
+  "name": "fit-logger-web",
+  "version": "1.0.0",
+  "description": "fit logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinbiondi/fit-logger-web.git"
+  },
+  "author": "Robin Biondi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robinbiondi/fit-logger-web/issues"
+  },
+  "homepage": "https://github.com/robinbiondi/fit-logger-web#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
