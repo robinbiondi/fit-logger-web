@@ -31,5 +31,17 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "Exercice": {
+    "dataSource": "db",
+    "public": true
+  },
+  "Training": {
+    "dataSource": "db",
+    "public": true
+  },
+  "Set": {
+    "dataSource": "db",
+    "public": true
   }
 }
